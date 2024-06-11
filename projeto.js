@@ -2,7 +2,7 @@
 let heroi = "Miguel"
 //classes dos herois
 let classes = ["ferro","bronze","prata","ouro","platina","ascendente","imortal","radiante"]
-//níveis de xp para classificar a classe do heroi.
+//níveis de xp para classificar a classe do heroi +++ saída.
 let xp = 7777
 if(xp<1000){
     console.log("O Herói de nome "+heroi+" está no nível de "+classes[0])
