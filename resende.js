@@ -20,4 +20,3 @@ if(xp<1000){
                 console.log("O Herói de nome "+heroi+" está no nível de "+classes[6])}
                 else if(xp >1001){
                     console.log("O Herói de nome "+heroi+" está no nível de "+classes[7])}
-                   
